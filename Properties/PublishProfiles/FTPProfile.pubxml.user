@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAvNjidrJJ9USD1jHehLcMqAAAAAACAAAAAAAQZgAAAAEAACAAAAAzZCXR93RHJw186IdhYEx0S3V3T4DrImnBzA0ODF07MAAAAAAOgAAAAAIAACAAAACX2IOy6QqrbGQuDc/STua7UOE1Sn/q3qs4GlDye1gMzyAAAACIjhYhWyihyJvgGCEWB55kTVpoL8rXHCWtA+hWFH20vEAAAADv00BNa/W0r0a3eiryrqfLbEoC5PrVhlwhvlnyJWOIAdK+AiZvE/6JpM8oibyzvZPMc2P9P1AAiOqdvimL5MVL</EncryptedPassword>
+    <_PublishTargetUrl>ftp://EssentialsSupps.somee.com/www.EssentialsSupps.somee.com</_PublishTargetUrl>
+    <History>True|2025-02-05T21:12:41.2895583Z||;True|2025-02-05T15:57:07.2564835-05:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>01/12/2025 19:23:21</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>02/05/2025 15:03:42</publishTime>
+    </File>
+    <File Include="EssentialsSupps-Backend.deps.json">
+      <publishTime>02/05/2025 16:12:31</publishTime>
+    </File>
+    <File Include="EssentialsSupps-Backend.dll">
+      <publishTime>02/05/2025 16:12:30</publishTime>
+    </File>
+    <File Include="EssentialsSupps-Backend.exe">
+      <publishTime>02/05/2025 16:12:30</publishTime>
+    </File>
+    <File Include="EssentialsSupps-Backend.pdb">
+      <publishTime>02/05/2025 16:12:30</publishTime>
+    </File>
+    <File Include="EssentialsSupps-Backend.runtimeconfig.json">
+      <publishTime>02/05/2025 15:55:52</publishTime>
+    </File>
+    <File Include="EssentialsSupps-Backend.staticwebassets.endpoints.json">
+      <publishTime>02/05/2025 15:55:56</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll">
+      <publishTime>10/29/2024 08:29:40</publishTime>
+    </File>
+    <File Include="Microsoft.AspNetCore.OpenApi.dll">
+      <publishTime>10/29/2024 08:30:30</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>12/10/2024 21:19:32</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>12/10/2024 21:20:08</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>12/10/2024 21:20:30</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Caching.Abstractions.dll">
+      <publishTime>12/10/2024 16:03:30</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Caching.Memory.dll">
+      <publishTime>12/10/2024 16:04:06</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.Abstractions.dll">
+      <publishTime>12/10/2024 16:03:30</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.dll">
+      <publishTime>12/10/2024 16:03:58</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.FileExtensions.dll">
+      <publishTime>12/10/2024 16:04:10</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.Json.dll">
+      <publishTime>12/10/2024 16:04:16</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Configuration.UserSecrets.dll">
+      <publishTime>12/10/2024 16:04:18</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.Abstractions.dll">
+      <publishTime>12/10/2024 16:03:12</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>12/10/2024 16:03:42</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.FileProviders.Abstractions.dll">
+      <publishTime>12/10/2024 16:03:30</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.FileProviders.Physical.dll">
+      <publishTime>12/10/2024 16:04:08</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.FileSystemGlobbing.dll">
+      <publishTime>12/10/2024 16:03:42</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.Abstractions.dll">
+      <publishTime>12/10/2024 16:03:42</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.dll">
+      <publishTime>12/10/2024 16:04:04</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Options.dll">
+      <publishTime>12/10/2024 16:03:58</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Primitives.dll">
+      <publishTime>12/10/2024 16:03:14</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>09/30/2024 04:56:48</publishTime>
+    </File>
+    <File Include="Npgsql.dll">
+      <publishTime>12/07/2024 04:49:42</publishTime>
+    </File>
+    <File Include="Npgsql.EntityFrameworkCore.PostgreSQL.dll">
+      <publishTime>01/17/2025 12:18:50</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>12/10/2024 12:18:14</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>12/10/2024 12:18:32</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>12/10/2024 12:18:22</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>02/05/2025 16:12:31</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
