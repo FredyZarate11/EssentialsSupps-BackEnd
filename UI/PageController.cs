@@ -9,9 +9,9 @@ namespace EssentialsSupps_Backend.UI
     public class PageController : ControllerBase
     {
         private readonly IConfiguration _configuration;
-        private readonly EssentialsSuppsdbContext _context;
+        private readonly ApplicationDbContext _context;
 
-        public PageController(IConfiguration configuration, EssentialsSuppsdbContext context)
+        public PageController(IConfiguration configuration, ApplicationDbContext context)
         {
             _configuration = configuration;
             _context = context;

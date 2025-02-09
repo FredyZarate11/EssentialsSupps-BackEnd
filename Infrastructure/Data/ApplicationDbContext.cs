@@ -5,14 +5,14 @@ using Microsoft.EntityFrameworkCore;
 
 namespace EssentialsSupps_Backend.Infrastructure.Data;
 
-public partial class EssentialsSuppsdbContext : DbContext
+public partial class ApplicationDbContext : DbContext
 {
     private readonly IConfiguration _configuration;
-    public EssentialsSuppsdbContext()
+    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
     {
     }
 
-    public EssentialsSuppsdbContext(DbContextOptions<EssentialsSuppsdbContext> options, IConfiguration configuration)
+    public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options, IConfiguration configuration)
         : base(options)
     {
         _configuration = configuration;

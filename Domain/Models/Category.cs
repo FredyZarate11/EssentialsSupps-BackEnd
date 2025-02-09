@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace EssentialsSupps_Backend.Dominio.Models;
+namespace EssentialsSupps_Backend.Domain.Models;
 
 public partial class Category
 {
