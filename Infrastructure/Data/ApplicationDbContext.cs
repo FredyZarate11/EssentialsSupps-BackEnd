@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using EssentialsSupps_Backend.Dominio.Models;
+using EssentialsSupps_Backend.Domain.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Diagnostics.HealthChecks;
 
 namespace EssentialsSupps_Backend.Infrastructure.Data;
 

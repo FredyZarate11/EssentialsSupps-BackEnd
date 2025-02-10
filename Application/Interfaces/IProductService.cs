@@ -1,8 +1,8 @@
 ﻿using EssentialsSupps_Backend.Domain.Models;
 
-namespace EssentialsSupps_Backend.Domain.Interfaces
+namespace EssentialsSupps_Backend.Application.Interfaces
 {
-    public interface IProductRepository
+    public interface IProductService 
     {
         Task<Product> GetById(int id);
         Task<IEnumerable<Product>> GetAll();
@@ -11,4 +11,3 @@ namespace EssentialsSupps_Backend.Domain.Interfaces
         Task Delete(int id);
     }
 }
-
