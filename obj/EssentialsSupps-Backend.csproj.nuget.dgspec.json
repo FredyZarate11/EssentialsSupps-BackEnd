@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zarat\\OneDrive\\Desktop\\EssentialsSupps\\BackEnd\\EssentialsSupps-Backend\\EssentialsSupps-Backend.csproj": {}
+    "C:\\Users\\zarat\\OneDrive\\Desktop\\EssentialsSupps\\BackEnd\\EssentialsSupps-BackEnd\\EssentialsSupps-Backend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zarat\\OneDrive\\Desktop\\EssentialsSupps\\BackEnd\\EssentialsSupps-Backend\\EssentialsSupps-Backend.csproj": {
+    "C:\\Users\\zarat\\OneDrive\\Desktop\\EssentialsSupps\\BackEnd\\EssentialsSupps-BackEnd\\EssentialsSupps-Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zarat\\OneDrive\\Desktop\\EssentialsSupps\\BackEnd\\EssentialsSupps-Backend\\EssentialsSupps-Backend.csproj",
+        "projectUniqueName": "C:\\Users\\zarat\\OneDrive\\Desktop\\EssentialsSupps\\BackEnd\\EssentialsSupps-BackEnd\\EssentialsSupps-Backend.csproj",
         "projectName": "EssentialsSupps-Backend",
-        "projectPath": "C:\\Users\\zarat\\OneDrive\\Desktop\\EssentialsSupps\\BackEnd\\EssentialsSupps-Backend\\EssentialsSupps-Backend.csproj",
+        "projectPath": "C:\\Users\\zarat\\OneDrive\\Desktop\\EssentialsSupps\\BackEnd\\EssentialsSupps-BackEnd\\EssentialsSupps-Backend.csproj",
         "packagesPath": "C:\\Users\\zarat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zarat\\OneDrive\\Desktop\\EssentialsSupps\\BackEnd\\EssentialsSupps-Backend\\obj\\",
+        "outputPath": "C:\\Users\\zarat\\OneDrive\\Desktop\\EssentialsSupps\\BackEnd\\EssentialsSupps-BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

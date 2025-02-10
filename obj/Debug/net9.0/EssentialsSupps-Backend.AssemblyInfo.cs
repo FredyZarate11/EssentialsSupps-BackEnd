@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EssentialsSupps-Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f3ec2095d250113ecf409af1243f28786cccc31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccfd32b580ca2a7668d7d6a4d6dc209fa6015cff")]
 [assembly: System.Reflection.AssemblyProductAttribute("EssentialsSupps-Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EssentialsSupps-Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
